@@ -21,3 +21,10 @@ Simply edit the three files with your relevant web app name, resource group from
 
 
 Note: These scripts are provided as is. Test them first before using in any production environment. Don't be dumb enough to run random scripts from the internet on live stuff.
+
+
+## Changelog
+
+2020-05-09 - Added Resource Group variable name, more progress output  
+2020-02-08 - Added Readme  
+2020-02-08 - Initial Commit
