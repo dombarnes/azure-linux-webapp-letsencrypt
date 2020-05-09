@@ -12,7 +12,7 @@ You can install most of these from [Homebrew](https://brew.sh)
 - Azure CLI  
 
 So why not try :
-```brew install openssl certbot lfpt azure-cli```
+```brew install openssl certbot lftp azure-cli```
 
 
 ## Use
